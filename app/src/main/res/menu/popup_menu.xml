@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/grabimagetext"
+    android:title="Grab Image text"/>
+    <item android:id="@+id/copy"
+        android:title="Copy"/>
+    <item android:id="@+id/Send"
+        android:title="Send"/>
+    <item android:id="@+id/Delete"
+        android:title="Delete"/>
+</menu>

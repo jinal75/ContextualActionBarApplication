@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.contextualactionbarapplication">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ContextualActionBarApplication">
+
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+
+        <activity
+            android:name=".changelayout.ChangeLayoutActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AlertDialogBoxActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PopupMenuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Multiple.MultiPhotoSelectActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ViewPagerRecycler.ViewPagerRewcyclerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ViewPager.PagerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ViewPager.ImageViewPagerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Refresh.RefreshActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FlaxBoxLayout.FlaxBoxActivity"
+            android:exported="true" />
+        <activity
+            android:name=".speechToTextActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CameraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ColorSheetActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".HorizontalScrollviewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".showCurrentTimeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BottomSheetActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

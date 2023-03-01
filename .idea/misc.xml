@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/drawable/cardbackgropund.xml" value="0.1435" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/drawable/ic_span_1.xml" value="0.1435" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/drawable/ic_span_3.xml" value="0.1435" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout-v23/content_main.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_alert_dialog_box.xml" value="0.246875" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_bottom_sheet.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_camera.xml" value="0.246875" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_change_layout.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_color_sheet.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_detail.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_flax_box.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_horizontal_scrollview.xml" value="0.25" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_image_view_pager.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_main.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_main2.xml" value="0.246875" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_multi_photo_select.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_pager.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_popup_menu.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_recycler_view.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_recycler_view_display.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_refresh.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_search.xml" value="0.246875" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_show_current_time.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_speech_to_text.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/activity_view_pager_rewcycler.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/content_main.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/content_main1.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/custom_dialog.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/demo_images.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/fragment_bottom.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/gallery.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/gallery_item.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/item.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/item_big.xml" value="0.246875" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/item_search.xml" value="0.20462962962962963" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/item_small.xml" value="0.11354166666666667" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/item_view_pager.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/list_item.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/row_item.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/search_header_layout.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/toolbar_popup.xml" value="0.22314814814814815" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/topbar.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/viewholder_cat.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/layout/viewpager_item.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/menu/example_menu.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/menu/meun_main.xml" value="0.2609375" />
+        <entry key="..\:/ContextualActionBarApplication/app/src/main/res/menu/popup_menu.xml" value="0.2609375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
